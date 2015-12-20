@@ -1,4 +1,6 @@
-Budyak Sergey
-VPI41
-git-lab1
-fghjkl;
+GitLab1
+=========
+
+1. Budyak Sergey
+2. VPI41
+3. git-lab1
